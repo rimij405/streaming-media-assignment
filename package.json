@@ -1,0 +1,27 @@
+{
+  "name": "streaming-media",
+  "version": "1.0.0",
+  "description": "IGME 430 - Streaming Media Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimij405/streaming-media-assignment.git"
+  },
+  "author": "Ian Effendi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rimij405/streaming-media-assignment/issues"
+  },
+  "homepage": "https://github.com/rimij405/streaming-media-assignment#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.0",
+    "eslint-plugin-react-hooks": "^2.3.0"
+  }
+}
