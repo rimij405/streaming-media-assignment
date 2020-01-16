@@ -2,9 +2,11 @@
   "name": "streaming-media",
   "version": "1.0.0",
   "description": "IGME 430 - Streaming Media Assignment",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
   },
   "repository": {
     "type": "git",
